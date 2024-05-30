@@ -1,4 +1,5 @@
 # Expense-Tracker-PT-2
+# Aplikasi ada di branch Master
 
 Riffqi Dava Sundara -	6706223008
 Muh. Faturrahman -	6706223013
